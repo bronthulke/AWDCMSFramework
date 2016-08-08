@@ -6,8 +6,8 @@
   </PropertyGroup>
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>aea774b5-e317-4262-8126-8ceb55a5d4ed</ProjectGuid>
-    <RootNamespace>AWDCMSFrameworkCore</RootNamespace>
+    <ProjectGuid>ab8a9539-9d38-4524-9c6d-fbdd8bdcd970</ProjectGuid>
+    <RootNamespace>AWDCMSFramework.Web</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
