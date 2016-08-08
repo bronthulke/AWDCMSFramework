@@ -20,6 +20,8 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AWDCMSFramework.Tests", "te
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AWDCMSFramework.Web", "src\AWDCMSFramework.Web\AWDCMSFramework.Web.xproj", "{AB8A9539-9D38-4524-9C6D-FBDD8BDCD970}"
 EndProject
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AWDCMSFramework.Infrastructure", "src\AWDCMSFramework.Infrastructure\AWDCMSFramework.Infrastructure.xproj", "{C76FEFFD-69B6-482D-9D0A-118AAFB567ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,6 +44,10 @@ Global
 		{AB8A9539-9D38-4524-9C6D-FBDD8BDCD970}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AB8A9539-9D38-4524-9C6D-FBDD8BDCD970}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AB8A9539-9D38-4524-9C6D-FBDD8BDCD970}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76FEFFD-69B6-482D-9D0A-118AAFB567ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76FEFFD-69B6-482D-9D0A-118AAFB567ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76FEFFD-69B6-482D-9D0A-118AAFB567ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76FEFFD-69B6-482D-9D0A-118AAFB567ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,5 +57,6 @@ Global
 		{A5CE5853-E19C-4FA2-B87A-A2BCD965274D} = {C3E66F0C-A09E-4286-B603-196B746140DB}
 		{C3249EFB-9146-4215-B75E-821C32AA0033} = {55BBCECF-60F8-4D97-B527-C0E9F9E89DFC}
 		{AB8A9539-9D38-4524-9C6D-FBDD8BDCD970} = {C3E66F0C-A09E-4286-B603-196B746140DB}
+		{C76FEFFD-69B6-482D-9D0A-118AAFB567ED} = {C3E66F0C-A09E-4286-B603-196B746140DB}
 	EndGlobalSection
 EndGlobal
